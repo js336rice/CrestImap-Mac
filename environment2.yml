@@ -1,0 +1,11 @@
+name: CrestImap
+channels:
+  - conda-forge
+dependencies:
+  - python=2.7
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - netCDF4
+  - psutil
